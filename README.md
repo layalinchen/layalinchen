@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @layalinchen
-- 👀 I’m interested in nothing.
-- 🌱 I’m currently learning nothing.
+- 👀 I’m interested in information- and presentation-design.
+- 🌱 I’m currently learning cool stuff.
 - 💞️ I’m looking to collaborate on nothing.
 
 <!---
